@@ -12,3 +12,18 @@ help get-service -full (with the examples)
 -----------------------------
 
 get-eventlog system -Newest 5 (give new 5 event log from system)
+get-command what command available to run on your computer
+--------
+Alias
+--------
+dir is alias for Get-ChildItem (gets the files and folders in a file system drive)
+e.g. dir 'C:\Program Files\' -Recurse
+Get-Alias -Definition Get-ChildItem
+
+help show-command (This is very handy gives graphical interface)
+
+Get-PSProvider (Gets information about the specified windows powershell provider)
+
+get-psdrive (gets the drive on the machine)
+
+$env:windir or dir $env:windir\system32\*.msc
