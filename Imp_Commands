@@ -1,0 +1,14 @@
+------------------------------
+Checking version: $psversiontable
+Right click and then go in properties to edit font size
+ISE - Script pane on top
+type ise in powershell command prompt to open ISE
+help get-service will give you minimum help
+(update-help -force) : goes to internet and updates -force is forcing the help to install again
+(All parameters start with - always)
+* help get-service -showwindow
+* help about* testing tool in powershell help about_pester
+help get-service -full (with the examples)
+-----------------------------
+
+get-eventlog system -Newest 5 (give new 5 event log from system)

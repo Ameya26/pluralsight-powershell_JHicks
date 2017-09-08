@@ -1,0 +1,8 @@
+// Window admin with a few years experience
+// You realize learning powershell is important
+
+// Interacting with powershell consoles
+// Understanding powershell commands
+// Using Help
+
+// https://github.com/theJasonHelmick/PS-AutoLab-Env
