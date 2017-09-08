@@ -96,9 +96,16 @@ Clear-Host
 # Here strings - for large blocks of text
 Clear-Host
 
+$heretext = @"
+Some text here 
+das
+ddasda
 
 
+dasd Blank liens
+"@
 
+$heretext
 
 
 
