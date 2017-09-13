@@ -1,0 +1,2 @@
+Window admin with a few years experienceYou realize learning powershell is importantInteracting with powershell consolesUnderstanding powershell commandsUsing Helphttps://github.com/theJasonHelmick/PS-AutoLab-EnvCommand-lets in powershellThis is the file for testing working with filesJust an exampleThis is atest file for testing.txtLooks goodTry to write a file output collecting all hte txt files into 1 file
+Powershell added by add content function

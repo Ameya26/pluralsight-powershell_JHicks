@@ -1,1 +1,3 @@
 Command-lets in powershell
+This is the file for testing working with files
+Just an example
